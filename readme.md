@@ -1,4 +1,4 @@
-Chrome extension starting bundle
+GPT-3-Chrome-Extension
 ================================
 
-A basic starting point for all chrome extensions. Not all the files are needed for every extension, but the core basics are covered.
+Instructions on how to load an unpacked chrome extension [here](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
